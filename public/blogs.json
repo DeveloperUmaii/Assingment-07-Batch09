@@ -1,0 +1,62 @@
+[
+    { 
+      "id":11,
+      "image": "https://i.ibb.co.com/N9QsFN8/pexels-photo-6645920.jpg",
+      "title": "Spicy Thai Noodles",
+      "description": "Fiery noodles with a Thai twist",
+      "ingredients_Count":3,
+      "ingredients": ["Rice noodles", "Chili flakes", "Peanuts"],
+      "cooking_time": 30,
+      "calories": 600
+    },
+    { 
+      "id":12,
+      "image": "https://i.ibb.co.com/qDQGDmv/girllled.jpg",
+      "title": "Grilled Lemon Chicken",
+      "description": "Tender chicken with zesty lemon flavor",
+      "ingredients_Count":4,
+      "ingredients": ["Chicken breast", "Lemon", "Olive oil", "Garlic"],
+      "cooking_time": 45,
+      "calories": 700
+    },
+    { 
+      "id":13,
+      "image": "https://i.ibb.co.com/sqXK9y1/Pizza.jpg",
+      "title": "Classic Veggie Pizza",
+      "description": "Delicious pizza loaded with fresh veggies",
+      "ingredients_Count":4,
+      "ingredients": ["Pizza dough", "Tomatoes", "Bell peppers", "Mozzarella"],
+      "cooking_time": 25,
+      "calories": 900
+    },
+    { 
+      "id":14,
+      "image": "https://i.ibb.co.com/CHtd5j5/Caesar-Salad-Supreme.jpg",
+      "title": "Caesar Salad Supreme",
+      "description": "Crispy lettuce with creamy Caesar dressing",
+      "ingredients_Count":3,
+      "ingredients": ["Romaine lettuce", "Croutons", "Caesar dressing"],
+      "cooking_time": 15,
+      "calories": 400
+    },
+    { 
+      "id":15,
+      "image": "https://i.ibb.co.com/mCw8SLG/Hearty-Beef-Stew.jpg",
+      "title": "Hearty Beef Stew",
+      "description": "Rich and flavorful beef slow-cooked to perfection",
+      "ingredients_Count":5,
+      "ingredients": ["Beef chunks", "Carrots", "Potatoes", "Onions", "Thyme"],
+      "cooking_time": 60,
+      "calories": 800
+    },
+    { 
+      "id":16,
+      "image": "https://i.ibb.co.com/C5HWsjJ/Decadent-Chocolate-Cakee.jpg",
+      "title": "Decadent Chocolate Cake",
+      "description": "Moist chocolate cake with rich frosting",
+      "ingredients_Count":4,
+      "ingredients": ["Cocoa powder", "Flour", "Butter", "Sugar"],
+      "cooking_time": 50,
+      "calories": 1200
+    }
+  ]
