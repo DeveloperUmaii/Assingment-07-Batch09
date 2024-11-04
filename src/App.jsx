@@ -57,7 +57,7 @@ const handleCatrt = (p) => {
 
   <div className="my-8 bg-[url(https://i.ibb.co.com/7N3pWzH/bg-img.png)]   h-screen bg-no-repeat bg-center place-content-center bg-cover rounded-3xl">
           
-      <h1 className="py-4 text-white text-3xl font-black mb-6 leading-10">"Experience a unique cooking class<br/>designed just for you!"</h1>
+      <h1 className=" text-white py-4 text-3xl font-black mb-6 leading-10">"Experience a unique cooking class<br/>designed just for you!"</h1>
       <p className="text-white font-medium mb-6 leading-6">"Indulge in our carefully crafted menu, featuring authentic flavors, fresh ingredients, and a variety of<br />dishes to satisfy every craving and occasion."</p>
       <div className="flex gap-x-6 justify-center my-4 mt-16">
         <div className=""><button className="font-bold bg-[#0BE58A] px-4 py-1 rounded-full">Explore Now</button></div>
@@ -65,7 +65,10 @@ const handleCatrt = (p) => {
       </div>
           
   </div>
-  
+  <div className="">
+      <h1 className="py-4 text-3xl font-black mb-6 leading-10">Our Recipes</h1>
+      <p className="text-sm font-medium mb-6 leading-6">"Deliciously Diverse: A Fusion of Spicy Thai Noodles, <br /> Grilled Lemon Chicken, Veggie Pizza, Caesar Salad, Hearty Beef Stew, and Decadent Chocolate Cake"</p>
+  </div>
 </header>
 
  <div className="main-container flex justify-around ">  {/* Main Container*/}
